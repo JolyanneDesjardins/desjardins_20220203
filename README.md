@@ -1,2 +1,4 @@
 # Jolyanne Desjardins
-Je suis étudiante en tecchnique d'intégration multimédia 
+
+Je suis étudiante en tecchnique d'intégration multimédia, 
+![photos]()
